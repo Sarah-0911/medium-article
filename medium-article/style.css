@@ -9,7 +9,7 @@ body {
 }
 
 .banner {
-  background-image: url("images/vieux_lyon.jpg");
+  background-image: url("vieux_lyon.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 300px;
@@ -17,7 +17,7 @@ body {
   color: white;
   padding: 120px 0;
   text-align: center;
-  font-size: 1.4em;
+  font-size: 1.5em;
 }
 
 .container {
